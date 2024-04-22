@@ -1,0 +1,20 @@
+firstly we need to download the google font from the "https://fonts.google.com/" and.
+
+download >> google fonts "https://fonts.google.com/" >> Convert the woff formate from the link of "https://transfonter.org/" >> after that extert and 
+add the css formate in style.css file and this fonts adds in folder of Fonts (project folder)
+
+after we use this fonts anywhere to this project 
+
+also same the code for css file is -      
+    @font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url('fonts/OpenSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+in folder section => fonts>OpenSans-SemiBold.woff
+
+
+                                      
