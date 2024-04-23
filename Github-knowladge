@@ -1,0 +1,29 @@
+
+[Youtub => How to Upload Project on GitHub in 20 Minutes [Simple Way]  =>>>> WsCube Tech]
+
+ [After the download the Gitbase according to your pc version
+ 
+opne the folder in > opne git base here // and also we found the command interface ]
+
+ git inti 
+ git add . 
+ git commit -m "commit message"
+ git branch -M main 
+ git remote add origin <github rapo link> 
+ git push -u origin main
+
+[if found a erroer of 
+error: failed to push some refs to 'https://github.com/ganeshsaini07/Pinterest_clone.git'
+hint: Updates were rejected because the remote contains work that you do not]
+
+[this we need to create and sub branch of present repo]
+
+git checkout -b my-new-branch
+git add
+git commit -m "New branch"
+git push -u origin my-new-branch
+
+
+
+
+
