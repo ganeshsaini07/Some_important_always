@@ -16,5 +16,26 @@ also same the code for css file is -
 
 in folder section => fonts>OpenSans-SemiBold.woff
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+fix code for fonts-icone
 
+/****** fix code for fonts-icone  *********************/
+@font-face {     
+    font-family: 'FontAwesome';
+    src: url('fonts/FontAwesome.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.fa{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 18px;
+}
+
+/****** fix code for fonts-icone  *********************/
                                       
