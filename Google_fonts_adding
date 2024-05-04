@@ -19,6 +19,8 @@ in folder section => fonts>OpenSans-SemiBold.woff
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 fix code for fonts-icone
 
+we need to download fonawasome woff formater on the google and links the fonts folder 
+
 /****** fix code for fonts-icone  *********************/
 @font-face {     
     font-family: 'FontAwesome';
