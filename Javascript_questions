@@ -1,0 +1,64 @@
+
+
+https://codepen.io/lalwanivikas/pen/eZxjqo
+
+ Que 1 . String 
+ slice(),substr(),substring() me deffrience
+ ANS . https://www.tutorialspoint.com/difference-between-string-slice-and-substring-methods#:~:text=Here%2C%20as%20the%20end%20index,%2C%20it%20returns%20'Good'.
+
+ Slice method = > 
+  .It returns a part of the string
+  .It allows negative indexing and returns string counting from back
+  .If start index is greater than the end index, it returns an empty string (5 , 3)
+
+ Substring method => 
+
+
+Que 2.*How JavaScript works?
+
+Ans-Everything in JavaScript happens inside an "execution context".
+
+Execution context has two component
+1)memory component[variable environment] 
+-This is the place where all variables and functions are stored as key value pairs. eg-{key: value ||  n:2;} 
+
+ 2)code component[Thread of execution]
+-This is the place where code is executed one line at a time
+
+Note-
+*JavaScript is a synchronous single-threaded language
+
+-Single threaded means JavaScript can execute once command at a time
+-Synchronous single-threaded that means JavaScript can execute one command at a time in a specific order.
+
+
+
+que 3. what is uses of event handling in js?  (https://www.youtube.com/watch?v=OEQpRTXfxoo)
+ans => Event handling to process to responding user actions in web page , like user click to button and want to 
+        any changes of webpage this case events helps.
+    
+Que 4. what is Call back fun?
+ans => // call back function => a callback function is function that is passed as an argument/prameter to another 
+       function
+
+       addEventListener('click' , function name(){
+ 
+       })
+
+       //  name is call back function    
+
+Que 5. Higher oder function?
+    => A higher oder functions is take one or more argument function as a argument/parameter        
+
+Que 6. what is ASYNCHRONOUS operation in js?
+ans => asunchrounos oprations are operation that do not block the executions of the code 
+       setTimeout is asynchronous function which executes call functions after a specific period of time    
+
+       uses of asynchronous oprations in js
+       -- setTimeout
+       -- Promise 
+       -- Loading data from an a Api
+       -- Uploading file 
+       -- With asynchronous programming, JavaScript programs can start long-running tasks, and continue running other tasks in paralell.
+
+       -- why uses aynchronous :- Async programming is vital because it allows multiple processes to run concurrently without interfering with the main thread. 
