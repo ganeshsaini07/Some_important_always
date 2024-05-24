@@ -1,5 +1,3 @@
-
-
 https://codepen.io/lalwanivikas/pen/eZxjqo
 
  Que 1 . String 
@@ -62,3 +60,15 @@ ans => asunchrounos oprations are operation that do not block the executions of 
        -- With asynchronous programming, JavaScript programs can start long-running tasks, and continue running other tasks in paralell.
 
        -- why uses aynchronous :- Async programming is vital because it allows multiple processes to run concurrently without interfering with the main thread. 
+
+       -- some operations are taking time to execute in js so we escap to block the code and continue running task in paralell .
+
+       real use of promise in real applications => promise is useful in doing asynchronus oprations and handel the result when result is available in future.
+       (panding , fullfiled/resolved, rejected)   
+
+
+Que 7. what is purpose of "this" in javascript?
+Ans => This keyword is represent current context or scope in which code is being excuated.          
+
+que 8. What is hosting in js ?
+ans => Hosting is javascript behavior where function and varibale declerations are moved to the top of respective scopes.         
