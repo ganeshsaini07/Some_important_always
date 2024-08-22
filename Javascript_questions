@@ -72,3 +72,6 @@ Ans => This keyword is represent current context or scope in which code is being
 
 que 8. What is hosting in js ?
 ans => Hosting is javascript behavior where function and varibale declerations are moved to the top of respective scopes.         
+
+que 9. What do you mean by NULL in JavaScript?
+       The NULL value represents that no value or no object. It is known as empty value/object.
