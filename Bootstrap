@@ -3,3 +3,29 @@ All Bootstrap CSS classes  ========>>>>>>>>>>>  https://bootstrapshuffle.com/cla
 crash course==>  https://www.youtube.com/watch?v=o3DukCgvUg0&list=PLjVLYmrlmjGfpOx66knCYUgZk7D1Z7dPZ
 
 
+bootstrap => html ,css,js and jquery = > framework
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+Grid Classes
+The Bootstrap grid system has four classes:
+
+xs (for phones - screens less than 768px wide)
+sm (for tablets - screens equal to or greater than 768px wide)
+md (for small laptops - screens equal to or greater than 992px wide)
+lg (for laptops and desktops - screens equal to or greater than 1200px wide)
+The classes above can be combined to create more dynamic and flexible layouts.
+
+
+
+Container classes:- 
+
+  .container-fluid :- every width 100% (full width)
+  .conatainer      :- 1400px (take 1320px) [fixed width container]
+ 
+ 
+ 
+
+
