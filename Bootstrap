@@ -3,6 +3,7 @@ All Bootstrap CSS classes  ========>>>>>>>>>>>  https://bootstrapshuffle.com/cla
 crash course==>  https://www.youtube.com/watch?v=o3DukCgvUg0&list=PLjVLYmrlmjGfpOx66knCYUgZk7D1Z7dPZ
 
 
+
 bootstrap => html ,css,js and jquery = > framework
 
 <!-- Latest compiled and minified CSS -->
@@ -12,6 +13,8 @@ bootstrap => html ,css,js and jquery = > framework
 Grid Classes
 The Bootstrap grid system has four classes:
 
+<div class="col-sm-4">    there are 12 column so we can use according to layout
+
 xs (for phones - screens less than 768px wide)
 sm (for tablets - screens equal to or greater than 768px wide)
 md (for small laptops - screens equal to or greater than 992px wide)
@@ -20,10 +23,41 @@ The classes above can be combined to create more dynamic and flexible layouts.
 
 
 
-Container classes:- 
+ 1. Container classes:- 
 
   .container-fluid :- every width 100% (full width)
   .conatainer      :- 1400px (take 1320px) [fixed width container]
+
+  Bootstrap's grid system allows up to 12 columns across the page.
+
+
+
+  <div class="container">
+     <div class="row">
+        <div class="col-sm-4">    there are 12 column so we can use according to layout
+        </div>
+     </div>
+  </div>   
+ 
+2. text classes:-   https://www.w3schools.com/bootstrap/bootstrap_typography.asp
+
+         .text-center
+         .text-left
+         .text-uppercase
+         .list-unstyled
+
+3. table:-
+        
+        .table      
+        .table-bordered
+        .table-hover   
+
+
+3. button:-
+
+        .btn
+        .btn-default
+        
  
  
  
